@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+how+are+you?👋;+I'm+George+Hany+Milad!;" />
 </h1>
 
-<h3 align="center">Undergraduate AI Student at EELU</h3>
+<h3 align="center">You can connect or follow me via :</h3>
 
 <br/>
  
