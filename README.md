@@ -2,17 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+how+are+you?👋;+I'm+George+Hany+Milad!;" />
 </h1>
 
-<h3 align="center">Under</h3>
+<h3 align="center">Undergraduate AI Student at EELU</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently **Undergraduate AI Student**
- 
- 🌱 I’m currently learning **Data Science, Machine Learning, Data Entry**
-
- </div>
  
 <div align="center"> 
   <a href="georgehanymiladfam@gmail.com ">
