@@ -31,5 +31,5 @@
 </div>
 </br>
 <div align="center">
-    <img src="https://www.bing.com/th/id/OGC.81178b47a8598f0c81c4799f2cdd4057?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f2131993%2fscreenshots%2f4948736%2fthoughtworks-gif_dribbble.gif&ehk=NNfOMQ6dfiA3eWWZAhI73QT3tX1lMjqFSSH4bXYrTAo%3d" />
+    <img src="https://www.bing.com/th/id/OGC.e91028c9a9beefdbaeeed6d2daf1fc22?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2ff1%2fed%2fa4%2ff1eda4768df8d8135c779772f2833e88.gif&ehk=GkPLSB7%2fiYzWtuSgOSqXdr7Nm2rZ%2bfxsWo1ptNqegS4%3d" />
 </div>
