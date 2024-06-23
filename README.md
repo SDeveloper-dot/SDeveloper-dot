@@ -20,13 +20,13 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/George-Hany" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://github.com/SDeveloper-dot/SDeveloper-dot/assets/173554478/866c4602-f427-42e1-be2c-e23acd408bf4" />
   </a>
   <a href="https://leetcode.com/u/georgehanymilad/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://vjudge.net/user/George_Hany" target="_blank">
-    <img src="https://img.shields.io/badge/Vjudge-1A73E8?style=for-the-badge&logo=code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vjudge-1A73E8?style=for-the-badge&logo=code&logoColor=" />
   </a>
 </div>
 
