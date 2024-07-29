@@ -1,5 +1,5 @@
 ## Programming Languages 🖥️
-![C++](https://img.shields.io/badge/C%2B%2B-%234169E1?style=for-the-badge&logo=C%2B%2B) ![Python](https://img.shields.io/badge/Python-%23ADD8E6?style=for-the-badge&logo=Python)
+![C++](https://img.shields.io/badge/C%2B%2B-%234169E1?style=for-the-badge&logo=C%2B%2B&logoSize=auto) ![Python](https://img.shields.io/badge/Python-%23ADD8E6?style=for-the-badge&logo=Python&logoSize=auto)
 <br>
 
 ## Development Tools & IDEs 🛠️
@@ -12,5 +12,5 @@
 <br>
 
 ## Machine Learning Platforms 🤖
-![Scikit-learn](https://img.shields.io/badge/Scikit-learn%20-%20%23FF8C00?style=for-the-badge&logo=Scikit-learn)
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn%20-%20%23FF8C00?style=for-the-badge&logo=Scikit-learn&logoSize=auto)
 <br>
