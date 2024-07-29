@@ -3,7 +3,7 @@
 <br>
 
 ## Software Development & IDEs 🛠️
-![Git](https://img.shields.io/badge/Git-%23FFF8DC?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-%23696969?style=for-the-badge&logo=github) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20-%20%237B68EE%09?style=for-the-badge&logo=Visual%20Studio) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code%20-%20%231E90FF%09?style=for-the-badge&logo=Visual%20Studio%20Code) ![Jupyter](https://img.shields.io/badge/Jupyter-%23FFF8DC?style=for-the-badge&logo=Jupyter) ![MATLAB](https://img.shields.io/badge/MATLAB%20%20-%20%23D2691E?style=for-the-badge&logo=MATLAB)
+![Git](https://img.shields.io/badge/Git-%23FFF8DC?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-%23696969?style=for-the-badge&logo=github) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20-%20%237B68EE%09?style=for-the-badge&logo=Visual%20Studio) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code%20-%20%231E90FF%09?style=for-the-badge&logo=Visual%20Studio%20Code) ![Jupyter](https://img.shields.io/badge/Jupyter-%23FFF8DC?style=for-the-badge&logo=Jupyter) ![Google Colab](https://img.shields.io/badge/Google%20Colab%20-%20%23696969?style=for-the-badge&logo=Google%20Colab&color=%23696969) ![MATLAB](https://img.shields.io/badge/MATLAB%20%20-%20%23D2691E?style=for-the-badge&logo=MATLAB)
 <br>
 
 ## Data Visualization 📊
