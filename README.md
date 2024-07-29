@@ -1,3 +1,9 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FF0000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+how+are+you?👋;+I'm+George+Hany+Milad!;" />
+</h1>
+
+
+<br>
 ## Programming Languages 🖥️
 ![C++](https://img.shields.io/badge/C%2B%2B-%234169E1?style=for-the-badge&logo=C%2B%2B&logoSize=auto) ![Python](https://img.shields.io/badge/Python-%23ADD8E6?style=for-the-badge&logo=Python&logoSize=auto)
 <br>
