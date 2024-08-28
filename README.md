@@ -8,8 +8,8 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 # Table Of Contents 📖
 
-### - [Useful tips and information](#useful-tips-and-information)
-### - [Resources and Materials](#resources-and-materials)
+- [Useful tips and information](#useful-tips-and-information)
+- [Resources and Materials](#resources-and-materials)
 <br>
 
 ## Useful tips and information
