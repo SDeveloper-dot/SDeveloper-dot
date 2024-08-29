@@ -23,7 +23,7 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 ## 1. Data Analysis Fundamentals 📊
 
-### &emsp;&emsp;&emsp; 📌 **[Essential Data Analysis Terms You Need to Know](https://www.linkedin.com/posts/mazen-mohamed11_dataanalysis-analytics-datascience-activity-7233020232670355459-RQwW?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
+### &emsp;&emsp;&emsp; ◈ **[Essential Data Analysis Terms You Need to Know](https://www.linkedin.com/posts/mazen-mohamed11_dataanalysis-analytics-datascience-activity-7233020232670355459-RQwW?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
 ### &emsp;&emsp;&emsp; 📌 **[Understanding the Difference Between Data Analysis and Data Analytics](https://www.linkedin.com/posts/metwalley_dataanalysis-dataanalytics-datascience-activity-7228703700159008768-5CBy?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
