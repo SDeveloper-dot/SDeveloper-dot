@@ -12,16 +12,6 @@
 This repository is a curated collection of Data Analysis and Business Intelligence (BI) resources. It includes essential tools, tutorials, guides, and projects to help you develop a deep understanding of data analytics and how to leverage BI tools to make data-driven decisions. Whether you’re just starting or looking to enhance your skills, these resources provide valuable insights into data processing, visualization, and the application of BI techniques to drive business growth and efficiency.
 <br>
 
-# Table Of Contents 📖
-
-- [1. Data Analysis Fundamentals 📊](#1-data-analysis-fundamentals-)
-- [2. Data Cleaning and Wrangling 🧹](#2-data-cleaning-and-wrangling-)
-- [3. Database Fundamentals 🗄️](#3-database-fundamentals-)
-- [4. SQL and Database Management 💾](#4-sQL-and-database-management-)
-- [5. Business Intelligence and Analysis 📈](#5-business-intelligence-and-analysis-)
-- [6. Advanced Topics and Interview Preparation 🎯](#6-advanced-topics-and-interview-preparation-)
-<br>
-
 ## 1. Data Analysis Fundamentals 📊
 
 &emsp;&emsp;&emsp; **<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20"> [Essential Data Analysis Terms You Need to Know](https://www.linkedin.com/posts/mazen-mohamed11_dataanalysis-analytics-datascience-activity-7233020232670355459-RQwW?utm_source=share&utm_medium=member_desktop)**
