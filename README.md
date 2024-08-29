@@ -23,13 +23,13 @@ This repository is a curated collection of Data Analysis and Business Intelligen
 
 ## 1. Data Analysis Fundamentals 📊
 
-&emsp;&emsp;&emsp;### 📌 **[Essential Data Analysis Terms You Need to Know](https://www.linkedin.com/posts/mazen-mohamed11_dataanalysis-analytics-datascience-activity-7233020232670355459-RQwW?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
+### &emsp;&emsp;&emsp; 📌 **[Essential Data Analysis Terms You Need to Know](https://www.linkedin.com/posts/mazen-mohamed11_dataanalysis-analytics-datascience-activity-7233020232670355459-RQwW?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
-&emsp;&emsp;&emsp;### 📌 **[Understanding the Difference Between Data Analysis and Data Analytics](https://www.linkedin.com/posts/metwalley_dataanalysis-dataanalytics-datascience-activity-7228703700159008768-5CBy?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
+### 📌 **[Understanding the Difference Between Data Analysis and Data Analytics](https://www.linkedin.com/posts/metwalley_dataanalysis-dataanalytics-datascience-activity-7228703700159008768-5CBy?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
-&emsp;&emsp;&emsp;### 📌 **[Handling Missing Values in Data Analysis: Techniques, Pros, and Cons](https://www.linkedin.com/posts/jana-hatem-5997792aa_%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84-data-analysis-%D8%A7%D9%84%D9%82%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D9%81%D9%82%D9%88%D8%AF%D8%A9-activity-7233569933350031360-lvEo?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
+### 📌 **[Handling Missing Values in Data Analysis: Techniques, Pros, and Cons](https://www.linkedin.com/posts/jana-hatem-5997792aa_%D9%81%D9%8A-%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84-data-analysis-%D8%A7%D9%84%D9%82%D9%8A%D9%85-%D8%A7%D9%84%D9%85%D9%81%D9%82%D9%88%D8%AF%D8%A9-activity-7233569933350031360-lvEo?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
 
 
 ### 📌 **[Handling Missing Values: KNN vs. SVD](https://www.linkedin.com/posts/beltagy-_aexaetaesaetabraetaeuaeqaeyaeyaeuabraepaesaexaepaesaep-activity-7234577570610991104-h-Kw?utm_source=share&utm_medium=member_desktop) <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">**
