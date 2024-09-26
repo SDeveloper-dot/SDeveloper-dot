@@ -47,12 +47,9 @@
 <br>
 
 ## 📊 Data Analyst 📊
-<div align="left">
-  <img src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif" width="400" height="300" />
+<img align="center" src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif" width="400" height="300" />
 
-<div align="right">
-  <img src="https://supplychaincommunity.org/wp-content/uploads/2022/10/unnamed-1.png" width="400" height="300" />
-</div>
+<img align="center" src="https://supplychaincommunity.org/wp-content/uploads/2022/10/unnamed-1.png" width="400" height="300" />
 
 
 
