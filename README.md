@@ -51,5 +51,9 @@
   <img src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif" width="500" height="350" />
 </div>
 
+<div align="right">
+  <img src="https://supplychaincommunity.org/wp-content/uploads/2022/10/unnamed-1.png" width="500" height="350" />
+</div>
+
 
 
