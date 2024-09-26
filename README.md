@@ -46,10 +46,5 @@
 </a>
 <br>
 <div align="center">
-  <img align="center" src="https://media3.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif?cid=ecf05e47404c659428dd32299f3af49b209d05bdffd914d9&rid=giphy.gif" />
+  <img align="center" src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif" />
 </a>
-<br>
-<div align="center">
-  <img align="center" src="https://media3.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif?cid=ecf05e47404c659428dd32299f3af49b209d05bdffd914d9&rid=giphy.gif" />
-</a>
-
