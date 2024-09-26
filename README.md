@@ -46,12 +46,8 @@
 </a>
 <br>
 
-## 📊 Data Analyst 📊
-<a href="https://github.com/GeorgeHanyMilad/github-readme-stats">
-    <img align="center" src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif" width="400" height="300" />
-</a>
-
-<img align="center" src="https://supplychaincommunity.org/wp-content/uploads/2022/10/unnamed-1.png" width="400" height="300" />
+## 📘 My Resume 📘
+&emsp;&emsp;&emsp; **<img src="https://icon-library.com/images/link-icon-svg/link-icon-svg-29.jpg" alt="Link" width="20" height="20"> [George Hany Milad CV](https://drive.google.com/file/d/1KbHD__Aw7ZbN9ItBt5V7YiiflyCnSih5/view?usp=sharing)**
 
 
 
