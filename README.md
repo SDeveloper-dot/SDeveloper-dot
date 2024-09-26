@@ -52,7 +52,7 @@
 </div>
 
 <div align="right">
-  <img src="https://supplychaincommunity.org/wp-content/uploads/2022/10/unnamed-1.png" width="500" height="350" />
+  <img src="https://supplychaincommunity.org/wp-content/uploads/2022/10/unnamed-1.png" width="400" height="300" />
 </div>
 
 
