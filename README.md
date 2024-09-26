@@ -45,7 +45,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHanyMilad&langs_count=8&layout=compact&theme=radical" />
 </a>
 <br>
-<div style="margin-top: 20px; text-align: center;">
+<div align="center">
   <img src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif" width="470" height="350" />
 </div>
 
