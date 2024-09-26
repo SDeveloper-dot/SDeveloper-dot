@@ -46,8 +46,8 @@
 </a>
 <br>
 
-## 📊 Data Analysis 📊
-<div align="center">
+## 📊 Data Analyst 📊
+<div align="left">
   <img src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif" width="500" height="350" />
 </div>
 
