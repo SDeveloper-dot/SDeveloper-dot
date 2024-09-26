@@ -47,7 +47,9 @@
 <br>
 
 ## 📊 Data Analyst 📊
-<img align="center" src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif" width="400" height="300" />
+<a href="https://github.com/GeorgeHanyMilad/github-readme-stats">
+    <img align="center" src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif" width="400" height="300" />
+</a>
 
 <img align="center" src="https://supplychaincommunity.org/wp-content/uploads/2022/10/unnamed-1.png" width="400" height="300" />
 
