@@ -46,7 +46,7 @@
 </a>
 <br>
 <div style="margin-top: 20px;">
-  <img align="center" src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif" width="300" height="300" />
+  <img align="center" src="https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif" width="400" height="300" />
 </div>
 
 
