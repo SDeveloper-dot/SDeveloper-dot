@@ -44,7 +44,7 @@
 <a href="https://github.com/GeorgeHanyMilad/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeHanyMilad&langs_count=8&layout=compact&theme=radical" />
 </a>
-<div align="right">
+<div align="center">
   <img align="center" src="https://1.bp.blogspot.com/-Wf2zR3ZYUpk/YDFs2tLg1mI/AAAAAAAAAWg/Ttcoq5-frkwA_Xt4jDq-lDrkzyKFmllhQCLcBGAsYHQ/s600/aboutus.gif" />
 </a>
 
