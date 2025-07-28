@@ -2,9 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00BFFF&center=true&vCenter=true&width=700&height=100&duration=7000&lines=Graduation+Project+-+Fayoum+Center+✌;We+hope+you+find+our+project+valuable+❤;" />
 </h1>
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1kPbao46yXePX9YFQ3etoq3Ttm0Ee6LNU/view?usp=sharing" width="120" />
-</p>
+![image](https://th.bing.com/th/id/R.757ccf2dc3af8aa4ce96e63013f8df40?rik=Co00qXoj2Od8fw&riu=http%3a%2f%2fmedia.boingboing.net%2fwp-content%2fuploads%2f2016%2f12%2fhero_car.gif&ehk=X61dQLHhMO6xpiqwp43VCQpwyLqdWc7aYkVFT86G%2bpQ%3d&risl=&pid=ImgRaw&r=0)
+<br>
 
 <h1 align="center">🚨 Road Helper</h1>
 <p align="center">Your Roadside Emergency Companion – Built with ❤️ using Flutter & Firebase</p>
