@@ -17,6 +17,36 @@
 
 ---
 
+## 📄 Project Information
+
+- **Project Title**:  
+  **AI-Based Solution for Addressing Plant Diseases in Egypt's Fruit and Vegetable Crops**
+
+- **Team Number**: { 0091 }
+
+- **Faculty**:  
+  Faculty of Computers and Information – Fayoum Center - EELU
+
+- **Supervised by**:  
+  - 👨‍🏫 Dr. Mahmoud Bassiouni *(Supervisor)*  
+  - 👩‍💻 Eng. Toka Ashraf *(Assistant Supervisor)*
+
+---
+
+## 👥 Team Members
+
+| Name               | Role         | University ID |
+|--------------------|--------------|---------------|
+| Kholoud Mohsen     | Team Leader  | 21-00882      |
+| Farah Mohamed      | Member       | 21-00686      |
+| Bishoy Ezzat       | Member       | 21-00584      |
+| George Hany        | Member       | 21-00724      |
+| Hager Abdelqader   | Member       | 21-02131      |
+| Mariam Hany        | Member       | 21-01011      |
+| Eslam Ayman        | Member       | 21-01854      |
+
+---
+
 ## 📝 Overview
 
 **Road Helper** is a mobile application that helps drivers manage road emergencies in real-time. From mechanical failures and accidents to fuel shortages or medical issues – the app connects drivers with nearby help and smart tools for immediate action.
