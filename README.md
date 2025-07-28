@@ -20,16 +20,16 @@
 ## 📄 Project Information
 
 - **Project Title**:  
-  **AI-Based Solution for Addressing Plant Diseases in Egypt's Fruit and Vegetable Crops**
+  **Road Helper**
 
-- **Team Number**: { 0091 }
+- **Team Number**: { 00xx }
 
 - **Faculty**:  
   Faculty of Computers and Information – Fayoum Center - EELU
 
 - **Supervised by**:  
-  - 👨‍🏫 Dr. Mahmoud Bassiouni *(Supervisor)*  
-  - 👩‍💻 Eng. Toka Ashraf *(Assistant Supervisor)*
+  - 👨‍🏫 Dr. Mayar Ali *(Supervisor)*  
+  - 👩‍💻 Eng. Raghda Mahmoud *(Assistant Supervisor)*
 
 ---
 
@@ -37,13 +37,13 @@
 
 | Name               | Role         | University ID |
 |--------------------|--------------|---------------|
-| Kholoud Mohsen     | Team Leader  | 21-00882      |
-| Farah Mohamed      | Member       | 21-00686      |
-| Bishoy Ezzat       | Member       | 21-00584      |
-| George Hany        | Member       | 21-00724      |
-| Hager Abdelqader   | Member       | 21-02131      |
-| Mariam Hany        | Member       | 21-01011      |
-| Eslam Ayman        | Member       | 21-01854      |
+| Mario Ibrahim      | Team Leader  | 21-0xxxx      |
+| Mario Mina         | Member       | 21-0xxxx      |
+| Abanob Yousry      | Member       | 21-0xxxx      |
+| Maria Fadl         | Member       | 21-0xxxx      |
+| Rana Abdelrahman   | Member       | 21-0xxxx      |
+| Shahd Wael         | Member       | 21-0xxxx      |
+| Aisha Mohamed      | Member       | 21-0xxxx      |
 
 ---
 
