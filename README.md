@@ -122,4 +122,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-<p align="center"><i>Developed with 💙 for safer roads <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2gwZ213eG13eWp6NjMzbXBnOW1jM2M5NmNmaW9xdjkzdjJmcnYwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qftBAjFxoJ2rc6UlY9/giphy.gif" width=50px height=40px></i></p>
+<p align="center"><i>Developed with 💙 for safer roads <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2gwZ213eG13eWp6NjMzbXBnOW1jM2M5NmNmaW9xdjkzdjJmcnYwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qftBAjFxoJ2rc6UlY9/giphy.gif" width=60px height=60px></i></p>
