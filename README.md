@@ -23,8 +23,7 @@
 
 - **Team Number**: { 00xx }
 
-- **Faculty**:  
-  Faculty of Computers and Information – Fayoum Center - EELU
+- **Faculty**: Faculty of Computers and Information – Fayoum Center - EELU
 
 - **Supervised by**:  
   - 👨‍🏫 Dr. Mayar Ali *(Supervisor)*  
