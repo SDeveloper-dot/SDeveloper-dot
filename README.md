@@ -38,9 +38,11 @@
 <be>
 
 ## ⚡ Stats ⚡
-<a href="https://github.com/GeorgeHanyMilad/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeorgeHanyMilad&show_icons=true&theme=tokyonight" />
-</a>
+<div align="center">
+  <a href="https://github.com/GeorgeHanyMilad/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=GeorgeHanyMilad&show_icons=true&theme=tokyonight" />
+  </a>
+</div>
 <br>
 
 ## 🔰 My Resume 🔰
