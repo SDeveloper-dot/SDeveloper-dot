@@ -33,7 +33,7 @@
 <div align="center">
     <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="500" height="320" />
 </div>
-<be>
+<br>
 
 ## ⚡ Stats ⚡
 <div align="center">
