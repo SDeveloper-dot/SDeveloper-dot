@@ -31,9 +31,9 @@
 <br/>
 
 <div align="center">
-    <img align="right" alt="GIF" src="https://png.pngtree.com/background/20230617/original/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg" width="500" height="320" />
+    <img src="https://www.finereport.com/en/wp-content/themes/blogs/images/2019051608A.gif" />
 </div>
-<br>
+<be>
 
 ## ⚡ Stats ⚡
 <div align="center">
