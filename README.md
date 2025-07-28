@@ -33,7 +33,7 @@
 
 ---
 
-## 👥 Team Members
+## 👨‍👩‍👧‍👦 Team Members
 
 | Name               | Role         | University ID |
 |--------------------|--------------|---------------|
@@ -100,20 +100,6 @@ flowchart TD
 - 📡 Offline Mode for help requests
 - 🧭 Global user help-request network
 - 🟢 WhatsApp fallback for emergency messaging
-
----
-
-## 👨‍👩‍👧‍👦 Team
-
-| Name                | Role               |
-|---------------------|--------------------|
-| Mario Ibrahem Nassef | Team Leader |
-| Mario Mina Gaballa   | Member |
-| Abanoub Yousry Helmy | Member |
-| Maria Fadl Naguib    | Member |
-| Shahd Wael Fathy     | Member |
-| Rana Abdelrahman     | Member |
-| Aesha Mohamed Saad   | Member |
 
 ---
 
