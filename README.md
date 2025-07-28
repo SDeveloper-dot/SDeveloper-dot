@@ -5,7 +5,7 @@
 ![image](https://th.bing.com/th/id/R.757ccf2dc3af8aa4ce96e63013f8df40?rik=Co00qXoj2Od8fw&riu=http%3a%2f%2fmedia.boingboing.net%2fwp-content%2fuploads%2f2016%2f12%2fhero_car.gif&ehk=X61dQLHhMO6xpiqwp43VCQpwyLqdWc7aYkVFT86G%2bpQ%3d&risl=&pid=ImgRaw&r=0)
 <br>
 
-<h1 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGd3NWIzeDJnOWVsemY0bzVzY2ExcmI5MTQwM3I0bDEyZTR2bWhlbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/mcMDC4YLJpEODj28dq/giphy.gif" width=50px height=40px> Road Helper</h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGd3NWIzeDJnOWVsemY0bzVzY2ExcmI5MTQwM3I0bDEyZTR2bWhlbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/mcMDC4YLJpEODj28dq/giphy.gif" width=60px height=60px> Road Helper</h1>
 <p align="center">Your Roadside Emergency Companion – Built with ❤️ using Flutter & Firebase</p>
 
 <p align="center">
