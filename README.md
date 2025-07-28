@@ -26,8 +26,8 @@
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&logoSize=auto" />
   </a>
   <a href="https://mavenanalytics.io/">
-    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logoColor=black" />
-  </a> 
+    <img src="https://img.shields.io/badge/Portfolio-FF8C00?style=for-the-badge&logoColor=white" />
+  </a>
 </div>
 
 <br/>
