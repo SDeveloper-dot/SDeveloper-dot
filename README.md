@@ -25,7 +25,7 @@
   <a href="https://www.kaggle.com/georgehanymilad" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&logoSize=auto" />
   </a>
-  <a href="https://mavenanalytics.io/">
+  <a href="https://mavenanalytics.io/profile/58119370-d091-70d8-dff6-b2c56872c2ed">
     <img src="https://img.shields.io/badge/Portfolio-FF8C00?style=for-the-badge&logoColor=white" />
   </a>
 </div>
