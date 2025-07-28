@@ -42,12 +42,11 @@
   <a href="https://github.com/GeorgeHanyMilad/github-readme-stats">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=GeorgeHanyMilad&show_icons=true&theme=tokyonight" 
-      width="500" 
-      height="220" 
+      width="800" 
+      height="300" 
     />
   </a>
 </div>
-
 <br>
 
 ## 🔰 My Resume 🔰
