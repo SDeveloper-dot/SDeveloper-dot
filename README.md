@@ -31,7 +31,7 @@
 <br/>
 
 <div align="center">
-    <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="500" height="320" />
+    <img align="right" alt="GIF" src="https://png.pngtree.com/background/20230617/original/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg" width="500" height="320" />
 </div>
 <br>
 
