@@ -42,8 +42,8 @@
   <a href="https://github.com/GeorgeHanyMilad/github-readme-stats">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=GeorgeHanyMilad&show_icons=true&theme=tokyonight" 
-      width="800" 
-      height="300" 
+      width="700" 
+      height="250" 
     />
   </a>
 </div>
