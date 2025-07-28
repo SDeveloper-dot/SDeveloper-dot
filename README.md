@@ -54,3 +54,22 @@
   </a>
 </div>
 <br>
+
+<div align="center">
+  <a href="mailto:georgehanymiladfam@gmail.com">
+    <span style="
+      display:inline-block;
+      background-color:#EA4335;
+      color:white;
+      padding:8px 15px;
+      border-radius:12px;
+      font-weight:bold;
+      font-family:sans-serif;
+      text-decoration:none;
+      margin:3px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" style="vertical-align:middle; margin-right:5px;">
+      Gmail
+    </span>
+  </a>
+</div>
+
