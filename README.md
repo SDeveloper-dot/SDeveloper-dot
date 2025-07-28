@@ -1,4 +1,6 @@
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome"/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=7B68EE&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+how+are+you?👋;+I'm+George+Hany+Milad!😍;" />
+</h1>
 
 <h3 align="center">❤ Connect with me on my social media and professional profiles ❤</h3>
 
@@ -53,7 +55,3 @@
 ## **<img src="https://icon-library.com/images/link-icon-svg/link-icon-svg-29.jpg" alt="Link" width="25" height="25"> [George Hany Milad CV](https://drive.google.com/file/d/1KbHD__Aw7ZbN9ItBt5V7YiiflyCnSih5/view?usp=drive_link) <img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px>**
 
 </div>
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=7B68EE&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+how+are+you?👋;+I+hope+you+like+my+work🙏;" />
-</h1>
